@@ -1,0 +1,32 @@
+.containe{
+    background-color: #939dc3;
+    background-image: -webkit-linear-gradient(70deg, #a6e3e9 50%, #e3fdfd 50%);
+    min-height: 100vh;
+    font-family: 'helvetica neue';
+    
+}
+
+.heading{
+    text-align: center;
+    color:grey;
+}
+
+.box{
+    
+    border-radius:5px;
+    border-color: black;
+}
+
+.item{
+    /* height: 25px;
+    width: 150px; */
+    justify-content: center;
+   display:flex;
+   border-color: black;
+   
+}
+.button{
+    justify-content: center;
+    text-align: center;
+}
+
